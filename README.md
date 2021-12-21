@@ -74,4 +74,4 @@ The time is 0:1:40
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic pdf (punetidLab03.pdf) of your program is to be emailed to ryandj@pacificu.edu**
+2.  **An electronic pdf (punetidLab03TemperatureConverter.pdf and punetidLab03TimeConverter.pdf) of your program is to be emailed to ryandj@pacificu.edu**
