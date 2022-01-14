@@ -51,8 +51,9 @@ Time Converter
 Enter seconds since day began: <b>100</b>
 
 The time is 0:1:40
-
 </pre>
+
+<b>Note:</b> To get the second project to execute when you Start Without Debugging, you will need to right click on the project and select <b>Set as Startup Project</b>.
 
 **To complete this assignment you must submit the following:**
 
