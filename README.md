@@ -24,7 +24,7 @@ Here is exactly what your program is to output (asterisks and all), and
 user input is in **bold**. All variables are to be a double.
 
 <pre>
-*********************
+**********************
  Temperature Converter
  *********************
 
